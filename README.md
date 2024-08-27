@@ -28,5 +28,6 @@
       "-._ .....  .| |                         |
           "-._.....| |             ___...---"""'
               "-._.| | ___...---"""
-                  """""             grp
+                  """""     
 The original Apple Macintosh (referred to now as the "Mac Classic").
+Original source: https://www.asciiart.eu/computers/apple
