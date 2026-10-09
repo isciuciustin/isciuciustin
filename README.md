@@ -21,3 +21,6 @@
 
 ### HACKING-PHONES
 - IPHONE SE (2022)
+
+
+# James David Vance IS A FUCKING BITCH!!!!
